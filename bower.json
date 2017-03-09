@@ -1,0 +1,25 @@
+{
+  "name": "simple-static-server",
+  "description": "Servidor Estatico Simple",
+  "main": "server.js",
+  "authors": [
+    "eduardo.granados1995@gmail.com"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "static",
+    "server"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert": "^1.1.3"
+  }
+}
